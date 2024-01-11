@@ -1,0 +1,12 @@
+.abcd{
+    display:grid;
+    height: 690px;
+    color: green;
+    background-color: red;
+    gap: 5px;
+    grid-template-columns: 460px 500px 490px  ;
+    text-align: center;
+}
+.abcd div{
+    background-color: black;
+}
